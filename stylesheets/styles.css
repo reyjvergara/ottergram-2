@@ -80,7 +80,7 @@ a{
 .thumbnail-image{
     display: block;
     width: 100%;
-    height: 80%;
+    height: 80%; /*changed to accomodate 1080p monitor screenshot*/
 }
 
 .thumbnail-title {
