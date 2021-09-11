@@ -80,6 +80,7 @@ a{
 .thumbnail-image{
     display: block;
     width: 100%;
+    height: 80%;
 }
 
 .thumbnail-title {
